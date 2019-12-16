@@ -37,9 +37,9 @@ A scheduling app that lets users(students) choose their class schedule for the s
     * main.handlebars (The layout that our index.handlebars references.)
 
 ##### Instructions to Run the App
-* Hosted on Heroku here: https://quiet-oasis-29575.herokuapp.com/
+* Hosted on Heroku here: https://murmuring-river-25650.herokuapp.com/
 
-* OR clone the file from github. (https://github.com/emmastotz/project-2)
+* OR clone the file from github. (https://github.com/Sandy12-code/project-2)
 * Install all dependencies needed to run the program ("npm install").
 * Run the applications using node in the command line ("node server.js") and open up browser with correct port to see the magic.
 
